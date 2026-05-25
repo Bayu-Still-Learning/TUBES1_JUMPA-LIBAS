@@ -1,0 +1,9 @@
+{
+  "name": "BotPertama",
+  "version": "1.0",
+  "authors": ["Bayu Tariganz"],
+  "description": "Jumpa Libas",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}

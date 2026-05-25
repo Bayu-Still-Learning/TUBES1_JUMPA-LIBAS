@@ -1,0 +1,9 @@
+{
+  "name": "BotKedua",
+  "version": "2.0",
+  "authors": ["Bayu Tariganz"],
+  "description": "Ribak Sude",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "BotKetiga",
+  "version": "3.0",
+  "authors": ["Bayu Tariganz"],
+  "description": "Retak Ginjal Klen",
+  "countryCodes": ["id"],
+  "platform": ".Net 6.0",
+  "programmingLang": "C# 10.0"
+}

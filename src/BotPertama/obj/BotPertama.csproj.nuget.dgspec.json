@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pongo\\Documents\\New folder (4)\\Stima 2026\\Tubes_Jumpa-Libas\\tubes1-if2211-starter-pack-main\\BotPertama\\BotPertama.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pongo\\Documents\\New folder (4)\\Stima 2026\\Tubes_Jumpa-Libas\\tubes1-if2211-starter-pack-main\\BotPertama\\BotPertama.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pongo\\Documents\\New folder (4)\\Stima 2026\\Tubes_Jumpa-Libas\\tubes1-if2211-starter-pack-main\\BotPertama\\BotPertama.csproj",
+        "projectName": "BotPertama",
+        "projectPath": "C:\\Users\\Pongo\\Documents\\New folder (4)\\Stima 2026\\Tubes_Jumpa-Libas\\tubes1-if2211-starter-pack-main\\BotPertama\\BotPertama.csproj",
+        "packagesPath": "C:\\Users\\Pongo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pongo\\Documents\\New folder (4)\\Stima 2026\\Tubes_Jumpa-Libas\\tubes1-if2211-starter-pack-main\\BotPertama\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pongo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.200"
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Robocode.TankRoyale.BotApi": {
+              "target": "Package",
+              "version": "[0.30.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
